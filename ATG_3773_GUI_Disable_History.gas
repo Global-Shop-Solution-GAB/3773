@@ -1,0 +1,22 @@
+Program.Sub.ScreenSU.Start
+Program.Sub.ScreenSU.End
+
+Program.Sub.Preflight.Start
+
+Program.Sub.Preflight.End
+
+Program.Sub.Main.Start
+'Coded by: JLH
+'Project Start Date: 8/29/2011
+'Hook 15920
+
+F.Intrinsic.UI.ChangeCallerProperty(V.Passed.000012,"LOCK",1)
+
+Program.Sub.Main.End
+
+Program.Sub.Comments.Start
+${$0$}$ATG_3773_GUI_Disable_History$}$JCT$}$4/11/2016
+${$1$}$$}$$}$0$}$15920$}$OLS004-POPULATE-HOOK (On-line GUI)$}$4/11/2016 2:09:52 PM$}$(Program: OLG002; Screen: OLS004)
+
+Program.Sub.Comments.End
+
